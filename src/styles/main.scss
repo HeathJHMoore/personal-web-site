@@ -1,0 +1,65 @@
+@import '~@fortawesome/fontawesome-free/css/all.css';
+
+* {
+  margin: 0px;
+  padding: 0px;
+}
+
+#hero-landing {
+  background-image: linear-gradient(240deg,rgba(12, 11, 11, 0.100), rgba(26, 20, 20, .900)), url(../../images//new-teeth.jpg);
+  height: 100vh;
+  font-family: Raleway;
+  background-position: center;
+  background-size: cover;
+  background-attachment: fixed;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  color: white;
+  h2 {
+    font-size: 60px;
+    font-weight: 100;
+  }
+  p {
+    font-size: 20px;
+  }
+}
+
+.hero-landing-content {
+  margin-left: 2%;
+  line-height: 1.6;
+}
+
+.social-links-container {
+  margin-top: 20px;
+  display: flex;
+  justify-content: space-between;
+  width: 20%;
+}
+
+.social-links {
+  font-size: 50px;
+  color: white;
+}
+
+@media only screen and (max-width: 900px) {
+  .social-links-container {
+    width: 30%;
+  }
+}
+
+@media only screen and (max-width: 600px) {
+  .social-links-container {
+    width: 40%;
+  }
+}
+
+@media only screen and (max-width: 500px) {
+  .hero-landing-content {
+    text-align: center;
+  }
+  .social-links-container {
+    width: 100%;
+    justify-content: space-around;
+  }
+}
