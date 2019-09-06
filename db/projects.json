@@ -1,0 +1,16 @@
+{
+  "project1" : {
+    "name": "Flex",
+    "url": "https://flex-fdc46.web.app/auth",
+    "img": "https://raw.githubusercontent.com/HeathJHMoore/Flex/master/images/Screen%20Shot%202019-09-05%20at%208.25.03%20PM.png",
+    "description" : "Flex is a web application designed to automatically introduce the principle of progressive overload into workout routines. Users create workouts within the application and, based on their performance in each workout, Flex adjusts the volume and resistance of each exercise accordingly",
+    "github": "https://github.com/HeathJHMoore/Flex"
+  },
+  "project2" : {
+    "name": "Chatty Baratheon",
+    "url": "https://baratheon-a378d.firebaseapp.com/",
+    "img": "https://raw.githubusercontent.com/nss-evening-cohort-9/chatty-baratheon/master/src/assets/Screen%20Shot%202019-05-13%20at%203.21.26%20PM.png",
+    "description" : "Chatty Baratheon is a web based messaging app that allows teams to easily communicate with one another. Public and Private Channels are available so that users can talk directly with teammates or post messages for the entire team",
+    "github": "https://github.com/nss-evening-cohort-9/chatty-baratheon"
+  }
+}

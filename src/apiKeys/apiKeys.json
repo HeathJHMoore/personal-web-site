@@ -1,0 +1,11 @@
+{
+  "firebaseConfig" : {
+  "apiKey": "AIzaSyDC4slMeXlmDN1d9VvK64rXS7_7B2RZrrY",
+  "authDomain": "my-awesome-project-e2b24.firebaseapp.com",
+  "databaseURL": "https://my-awesome-project-e2b24.firebaseio.com",
+  "projectId": "my-awesome-project-e2b24",
+  "storageBucket": "my-awesome-project-e2b24.appspot.com",
+  "messagingSenderId": "90436206508",
+  "appId": "1:90436206508:web:012feb4991120a51858409"
+  }
+}

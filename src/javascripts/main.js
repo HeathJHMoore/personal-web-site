@@ -1,8 +1,9 @@
 import 'bootstrap';
 import '../styles/main.scss';
+import projects from './projects';
 
 const init = () => {
-  console.error('yo yo');
+  projects.printProjects();
 };
 
 init();
