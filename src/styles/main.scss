@@ -95,13 +95,26 @@
 }
 
 #myServicesContainer {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
   font-family: Montserrat;
   background-color: black;
   color: white;
   font-size: 20px;
+  #MyExperienceHeader {
+     font-family: Raleway;
+    font-weight: 400;
+    text-align: center;
+    font-size: 45px;
+    // margin-top: 1.5em;
+  }
+}
+
+#myServicesCardContainer {
   display: flex;
   justify-content: space-around;
-  padding: 3.5em;
+  padding: 3.2em 3.8em;
   .myServicesCard {
     text-align: center;
     h3 {
