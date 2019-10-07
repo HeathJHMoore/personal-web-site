@@ -94,6 +94,58 @@
   width: 480px;
 }
 
+#myServicesContainer {
+  background-color: black;
+  color: white;
+  font-size: 20px;
+  display: flex;
+  justify-content: space-around;
+  padding: 3.5em;
+  .myServicesCard {
+    text-align: center;
+    h3 {
+      font-size: 30px;
+      margin: 0px;
+      padding: 0px;
+    }
+    display: flex;
+    flex-direction: column;
+    align-items: space-around;
+    width: 32%;
+    text-align: center;
+    .myServicesIcons {
+      padding: 2.0em 2.8em;
+      display: flex;
+      justify-content: space-around;
+      align-items: center;
+      .fa-desktop {
+        font-size: 55px;
+      }
+      .fa-mobile-alt {
+        font-size: 40px;
+      }
+      .fa-arrows-alt-h {
+        font-size: 40px;
+      }
+      .fa-user-alt {
+        font-size: 55px;
+      }
+      .fa-long-arrow-alt-right {
+        font-size: 40px;
+      }
+      .fa-file-code {
+        font-size: 50px
+      }
+      .fa-database {
+        font-size: 55px;
+      }
+      .fa-lightbulb {
+        font-size: 50px
+      }
+    }
+  }
+}
+
 #technologiesContainer {
   clip-path: polygon(50% 0, 100% 0, 100% 85%, 50% 100%, 0 85%, 0 0);
   background-color: rgb(241, 241, 241);
