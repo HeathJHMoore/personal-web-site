@@ -5,7 +5,8 @@ import waypointStuff from './waypoints';
 
 
 const init = () => {
-  projects.printProjects();
+  //no longer printing projects because they dont work
+  // projects.printProjects();
   waypointStuff.setWaypoints(waypointStuff.arrayOfIds)
 };
 

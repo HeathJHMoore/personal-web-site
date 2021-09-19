@@ -19,3 +19,8 @@ const getProjects = () => new Promise((resolve, reject) => {
 });
 
 export default { getProjects };
+
+
+// leaving this code here in case initialization is necessary
+// const app = initializeApp(firebaseConfig);
+// const analytics = getAnalytics(app);

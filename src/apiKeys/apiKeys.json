@@ -1,11 +1,10 @@
 {
   "firebaseConfig" : {
-  "apiKey": "AIzaSyDC4slMeXlmDN1d9VvK64rXS7_7B2RZrrY",
-  "authDomain": "my-awesome-project-e2b24.firebaseapp.com",
-  "databaseURL": "https://my-awesome-project-e2b24.firebaseio.com",
-  "projectId": "my-awesome-project-e2b24",
-  "storageBucket": "my-awesome-project-e2b24.appspot.com",
-  "messagingSenderId": "90436206508",
-  "appId": "1:90436206508:web:012feb4991120a51858409"
+  "apiKey": "AIzaSyARedlbn881wxzWHYV6koe2wv8VYwDC0VY",
+  "authDomain": "personalwebsite-a1a1c.firebaseapp.com",
+  "projectId": "personalwebsite-a1a1c",
+  "storageBucket": "personalwebsite-a1a1c.appspot.com",
+  "messagingSenderId": "413664741694",
+  "appId": "1:413664741694:web:d3fb69233fb7ea4c20c46f"
   }
 }
